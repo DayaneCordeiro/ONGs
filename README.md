@@ -1,6 +1,6 @@
 # Semana_OmniStack_11
 * Desenvolvendo uma aplicação com as tecnologias padrão web, react, node, express, react native, expo, etc.
-*Aplicação foi desenvolvida com intuito social com a ideia de ser uma aplicação web e mobile para que ONGs  posso cadastrar casos que precisem de doação financeira.  Aplicação web foi totalmente desenvolvida conforme a visão de uma ONG de forma que a ONG possa se cadastrar e cadastrar os casos. Aplicação mobile foi desenvolvida conforme a visão do doador que pode ver uma listagem dos casos abertos e escolher algum para ajudar.
+* Aplicação foi desenvolvida com intuito social com a ideia de ser uma aplicação web e mobile para que ONGs  posso cadastrar casos que precisem de doação financeira.  Aplicação web foi totalmente desenvolvida conforme a visão de uma ONG de forma que a ONG possa se cadastrar e cadastrar os casos. Aplicação mobile foi desenvolvida conforme a visão do doador que pode ver uma listagem dos casos abertos e escolher algum para ajudar.
 
 # Telas da aplicação
 

@@ -28,12 +28,18 @@ A aplicação mobile foi implementada segundo a visão de um doador.
 
 #### Interface
 * Primeiro contato do usário com o app.
+
+
 ![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/InterfaceMobile.PNG)
 
 #### Casos
+
+
 * Onde o usuário vê os casos de todas as ONGs e pode escolher algum para ajudar.
 ![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/CasosMobile.PNG)
 
 #### Detalhes do caso
+
+
 * Tela que exibe o caso escolhido mais detalhadamente.
 ![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/DetalhesCasoMobile.PNG)

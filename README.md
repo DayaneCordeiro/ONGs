@@ -8,32 +8,32 @@
 A aplicação web foi implementada segundo a visão da ONG.
 
 #### Página de login 
-Onde uma ONG pode entrar na aplicação ou entrar no link da página de cadastro.
+* Onde uma ONG pode entrar na aplicação ou entrar no link da página de cadastro.
 ![alt text](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/Login.PNG)
 
 #### Página de cadastro
-Uma ONG pode se cadastrar e assim que o cadastro é realizado ela recebe o id de acesso que é solicitado na página de login.
+* Uma ONG pode se cadastrar e assim que o cadastro é realizado ela recebe o id de acesso que é solicitado na página de login.
 ![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/Cadastro.PNG)
 
 ### Página de cadastro de casos
-A página onde a ONG pode cadastrar um novo caso para que as pessoas possam colaborar.
+* A página onde a ONG pode cadastrar um novo caso para que as pessoas possam colaborar.
 ![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/NovoCaso.PNG)
 
-### Página de exibição dos casos da ONG
-A página onde a ONG pode visualizar seus casos cadastrados.
+#### Página de exibição dos casos da ONG
+* A página onde a ONG pode visualizar seus casos cadastrados.
 ![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/Casos.PNG)
 
 ## Aplicação mobile
 A aplicação mobile foi implementada segundo a visão de um doador.
 
-### Interface
-Primeiro contato do usário com o app.
+#### Interface
+* Primeiro contato do usário com o app.
 ![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/InterfaceMobile.PNG)
 
-### Casos
-Onde o usuário vê os casos de todas as ONGs e pode escolher algum para ajudar.
+#### Casos
+* Onde o usuário vê os casos de todas as ONGs e pode escolher algum para ajudar.
 ![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/CasosMobile.PNG)
 
-### Detalhes do caso
-Tela que exibe o caso escolhido mais detalhadamente.
+#### Detalhes do caso
+* Tela que exibe o caso escolhido mais detalhadamente.
 ![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/DetalhesCasoMobile.PNG)

@@ -13,27 +13,27 @@ Onde uma ONG pode entrar na aplicação ou entrar no link da página de cadastro
 
 #### Página de cadastro
 Uma ONG pode se cadastrar e assim que o cadastro é realizado ela recebe o id de acesso que é solicitado na página de login.
-![](/imagens/Cadastro.png)
+![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/Cadastro.PNG)
 
 ### Página de cadastro de casos
 A página onde a ONG pode cadastrar um novo caso para que as pessoas possam colaborar.
-![](/imagens/NovoCaso.png)
+![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/NovoCaso.PNG)
 
 ### Página de exibição dos casos da ONG
 A página onde a ONG pode visualizar seus casos cadastrados.
-![](/imagens/Casos.png)
+![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/Casos.PNG)
 
 ## Aplicação mobile
 A aplicação mobile foi implementada segundo a visão de um doador.
 
 ### Interface
 Primeiro contato do usário com o app.
-![](/imagens/InterfaceMobile.png)
+![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/InterfaceMobile.PNG)
 
 ### Casos
 Onde o usuário vê os casos de todas as ONGs e pode escolher algum para ajudar.
-![](imagens/CasosMobile.png)
+![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/CasosMobile.PNG)
 
 ### Detalhes do caso
 Tela que exibe o caso escolhido mais detalhadamente.
-![](/imagens/DetalhesCasoMobile.png)
+![](https://github.com/DayaneCordeiro/SemanaOmniStack_11/blob/master/imagens/DetalhesCasoMobile.PNG)

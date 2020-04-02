@@ -9,7 +9,7 @@ A aplicação web foi implementada segundo a visão da ONG.
 
 #### Página de login 
 Onde uma ONG pode entrar na aplicação ou entrar no link da página de cadastro.
-![](/imagens/Login.png)
+![alt text](https://github.com/DayaneCordeiro/SemanaOmniStack_11/tree/master/imagens/imagens/Login.png)
 
 #### Página de cadastro
 Uma ONG pode se cadastrar e assim que o cadastro é realizado ela recebe o id de acesso que é solicitado na página de login.

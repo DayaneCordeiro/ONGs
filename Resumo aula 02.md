@@ -1,4 +1,4 @@
-#Conteúdo da aula 02
+# Conteúdo da aula 02
 
 * Na rota, tudo que vem após a barra é chamado de recurso. Exemplo '/user' <- está tentando acessar o recurso de user. Normalmente um recurso é associado à uma tabela do banco.
 * Métodos HTTP:
